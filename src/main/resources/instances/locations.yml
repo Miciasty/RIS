@@ -1,0 +1,60 @@
+#
+#      ___   ____      ____   __   __  ____    _____   _____   __  __
+#     |_ _| |  _ \    / ___|  \ \ / / / ___|  |_   _| | ____| |  \/  |
+#      | |  | |_) |   \___ \   \ V /  \___ \    | |   |  _|   | |\/| |
+#      | |  |  _ <     ___) |   | |    ___) |   | |   | |___  | |  | |
+#     |___| |_| \_\   |____/    |_|   |____/    |_|   |_____| |_|  |_|
+#
+# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+#
+#   ri_location_1:
+#     1:
+#       world: world
+#       x: 20
+#       y: 70
+#       z: 10
+#       type: story
+#       greeting: Text that will be send to player when enter region
+#       title: Great Kanyon
+#       subtitle: Old river
+#
+# -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+ri_location_1:
+  1:
+    world: world
+    x: 20
+    y: 70
+    z: 1
+    type: story
+    greeting: Zbliżasz się do nieznanego miejsca
+    title: Karawana
+    subtitle: Status 1
+  2:
+    world: world
+    x: 0
+    y: 64
+    z: 1
+    type: story
+    greeting: Zbliżasz się do Location_1
+    title: Karawana
+    subtitle: Status 2
+ri_location_2:
+  1:
+    world: world
+    x: 20
+    y: 70
+    z: 10
+    type: story
+    greeting: Zbliżasz się do nieznanego miejsca
+    title: Karawana
+    subtitle: Status 1
+  2:
+    world: world
+    x: 20
+    y: 70
+    z: 10
+    type: story
+    greeting: Zbliżasz się do nieznanego miejsca
+    title: Karawana
+    subtitle: Status 1

@@ -1,0 +1,8 @@
+name: RegionInstanceSystem
+version: '${project.version}'
+main: strefagier.minecraft.regioninstancesystem
+api-version: 1.19
+authors: [ Miciasty ]
+commands:
+  locationdecision:
+    description: "Decide whether to enter a location"
